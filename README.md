@@ -1,2 +1,2 @@
 # TheSandBox
-repository for new members to get familiar with using github 
+repository for new robotic team members to get familiar with using github 
